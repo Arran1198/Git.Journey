@@ -12,4 +12,4 @@ also its a value to have the discipline to put it to the motion and act on it, i
 ____Day 002 today was the day to create a to-do list by cpp in which i desire to use FLTK library. and i obviously have to install it first which in 
 windows is not an easy task to do, and other than that i have to make neccessary perperations for it.
 
-_also creating a 6-month road-map for game-development in unreal engine. actually an adventage is to make cpp with it.  
+_also creating a 6-month road-map for game-development in unreal engine. actually an adventage is to make cpp based games with it.  
