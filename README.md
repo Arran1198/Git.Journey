@@ -13,3 +13,5 @@ ____Day 002 today was the day to create a to-do list by cpp in which i desire to
 windows is not an easy task to do, and other than that i have to make neccessary perperations for it.
 
 _also creating a 6-month road-map for game-development in unreal engine. actually an adventage is to make cpp based games with it.  
+
+____Day 003 Today was kind of a chill day, i've been to university all day and peracticing german all day. hope i become better at it, it's kind of stressing.
