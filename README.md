@@ -24,3 +24,5 @@ i don't think it will happen this soon but hopefully in the next 4 years i'll be
 _also today  i'll be practicing sets and hash maps, in c++. i hope to make a good progress. 
 
 _i also have to study for physic-2 exam.
+
+____Day 006 still practicing, nothing new.
