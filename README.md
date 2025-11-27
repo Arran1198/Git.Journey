@@ -27,4 +27,4 @@ _i also have to study for physic-2 exam.
 
 ____Day 006 still practicing, nothing new.
 
-____Day 007 Today iam studying physic for university. practice hard, work hard live easy.
+____Day 007 Today iam still studying physic for university. practice hard, work hard live easy.
