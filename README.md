@@ -26,3 +26,5 @@ _also today  i'll be practicing sets and hash maps, in c++. i hope to make a goo
 _i also have to study for physic-2 exam.
 
 ____Day 006 still practicing, nothing new.
+
+____Day 007 Today iam studying physic for university. practice hard, work hard live easy.
