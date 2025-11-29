@@ -32,3 +32,5 @@ ____Day 007 Today iam still studying physic for university. practice hard, work 
 ____Day 008 Tomorrow iam taking the university physic-2 exam, wish me luck. 
 
 ____Day 009 today mid-term exam was very difficult, i really messed up today. but you know what they say its just another point, i practice better next time
+
+_Also today i started practicing, my english and making preperations for a level-up. and i just remembered it's late at night i probably should go to bed.
