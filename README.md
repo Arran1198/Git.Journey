@@ -36,3 +36,6 @@ ____Day 009 today mid-term exam was very difficult, i really messed up today. bu
 _Also today i started practicing, my english and making preperations for a level-up. and i just remembered it's late at night i probably should go to bed.
 
 ____DAY 10 today i wanted to rest so it was day which i just reveiwed some codes, fineded a few diffrent libraries iwanted to test, ( For c++ obviously), and that was it tomorrow i have to check for this weeks software development check list, and study for a diffrent up coming exam and finally work on the micro projects which i was neglecting for a long time. so untill tomorrow goodbye.
+
+____Day 011 Today i'm learning to apply certains changes to my github account, how journal projects, and etc...,  and tomorrow iam changing my github account for the better. lets work hard and live easy.
+
