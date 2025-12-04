@@ -39,3 +39,4 @@ ____DAY 10 today i wanted to rest so it was day which i just reveiwed some codes
 
 ____Day 011 Today i'm learning to apply certains changes to my github account, how journal projects, and etc...,  and tomorrow iam changing my github account for the better. lets work hard and live easy.
 
+____Day 012 Today iam changing, my git hub for better so this episode is github improve NO.01.
