@@ -40,3 +40,9 @@ ____DAY 10 today i wanted to rest so it was day which i just reveiwed some codes
 ____Day 011 Today i'm learning to apply certains changes to my github account, how journal projects, and etc...,  and tomorrow iam changing my github account for the better. lets work hard and live easy.
 
 ____Day 012 Today iam changing, my git hub for better so this episode is github improve NO.01.
+
+____changed some basic things, things im currently learning, things i done, Uni iam studying at these sort of thing.
+
+____Added a contribute rating, and programming languages i learned. And of Course a goodread account. 
+
+____Beside github studied a little bit of Big-O ( complexity analysis ), PS: I still need to get deeper but for now it works.
