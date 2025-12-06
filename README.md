@@ -48,3 +48,5 @@ _____Added a contribute rating, and programming languages i learned. And of Cour
 _____Beside github studied a little bit of Big-O ( complexity analysis ), PS: I still need to get deeper but for now it works.
 
 ____Day 013 hello its a diffrent day now that iam writing the journey which i dont think its very well written, but anyway i'm doing it to be a sign of my progress, Today i have to study for university but tomorrow i start learning, html and css. and ... i think i gonna practice for about a week. but after that i try going for react and flutter. 
+
+____Day 014 Ok A New day starting learning html and css, week 1 saturday, starting by html, the source i decided to learn from was a very cool guy from youtube called [Neon learn.HTML](https://www.youtube.com/watch?v=6zcBBDcR5-M&list=PLTEzTFAAzxQ4RZ4ZMmIKkOaUeOsLqeFTT), he is an intresting guy to say the least and completely works for me to learn from him.
