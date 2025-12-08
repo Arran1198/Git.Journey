@@ -52,3 +52,5 @@ ____Day 013 hello its a diffrent day now that iam writing the journey which i do
 ____Day 014 Ok A New day starting learning html and css, week 1 saturday, starting by html, the source i decided to learn from was a very cool guy from youtube called [Neon learn.HTML](https://www.youtube.com/watch?v=6zcBBDcR5-M&list=PLTEzTFAAzxQ4RZ4ZMmIKkOaUeOsLqeFTT), he is an intresting guy to say the least and completely works for me to learn from him.
 
 ____Day 015 Today was premuch german day. so i just do some leet code training and thats it. GET BETTER EVERY DAY JUST A LITTLE BIT.^_^.
+
+____Day 016 today is html practice day doing some practice some training and maybe some problem solving training, ( its advent of code day). 
